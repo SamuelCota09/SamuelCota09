@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning how to code💻!
+- ⚡ Fun fact: I adores pasteis de nata!
 
 <!--
 **SamuelCota09/SamuelCota09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
